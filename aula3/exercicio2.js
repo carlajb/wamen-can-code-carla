@@ -6,4 +6,4 @@ var meuNome;
 console.log(meuNome); //undefined
 
 meuNome = "Carla"
-console.log(meuNome) //Gabriela
+console.log(meuNome) //Carla
