@@ -16,3 +16,13 @@ const meuArrayObjetos = [{
 const meuArrayVariosTipos = ["Abacaxi", 700, true, {eletronico: "notebook"}];
 
 console.log(meuArrayObjetos);
+ console.log(meuArrayVariosTipos[0]);
+ console.log(meuArrayVariosTipos.length);
+
+const tamanhoMeuArrayVariosTipos = meuArrayVariosTipos.length;
+//console.log(tamanhoMeuArrayVariosTipos);
+//console.log(meuArrayVariosTipos[tamanhoMeuArrayVariosTipos -1]);
+
+const indiceUltimoItem = tamanhoMeuArrayVariosTipos -1;
+//console.log(indiceUltimoItem);
+
